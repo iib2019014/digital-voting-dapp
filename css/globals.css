@@ -1,0 +1,19 @@
+a {
+    text-decoration: none;
+}
+
+.flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-center-horizontal {
+    display: flex;
+    align-items: center;
+}
+
+.flex-center-vertical {
+    display: flex;
+    justify-content: center;
+}
